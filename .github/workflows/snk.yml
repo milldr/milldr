@@ -7,11 +7,6 @@ on:
   
   # allows to manually run the job at any time
   workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-      - main
 
 concurrency:
   group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
