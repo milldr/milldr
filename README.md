@@ -10,19 +10,9 @@ I'm currently working as a Senior DevOps Engineer at [Cloud Posse](https://cloud
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![milldr's GitHub stats](https://github-readme-stats.vercel.app/api?username=milldr&show_icons=true&theme=radical)
-
 <a href="https://github.com/milldr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milldr" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milldr&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/milldr/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milldr&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-<a href="https://github.com/milldr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milldr&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/milldr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=milldr&repo=convoychat" />
 </a>
