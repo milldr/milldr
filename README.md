@@ -4,12 +4,12 @@
 
 I'm currently working as a Senior DevOps Engineer at [Cloud Posse](https://cloudposse.com/) where I help maintain open source [Terraform root modules](https://github.com/cloudposse/terraform-aws-components/) and build out Terraform best-practice architecture blueprints for AWS. For more, see our public documentation at [docs.cloudposse.com](https://docs.cloudposse.com/) or reach out in our public, free ["SweetOps" Slack community](https://slack.cloudposse.com)!
 
-
 <a href="https://github.com/milldr/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milldr&show_icons=true&theme=dracula" />
 </a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img height=200 align="center" alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" style="width:auto;" />
 </picture>
