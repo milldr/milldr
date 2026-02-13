@@ -13,5 +13,5 @@ Outside of work, I'm always building side projects and happy to help the communi
 </picture>
 
 <a href="https://github.com/milldr">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=milldr&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=milldr&theme=dracula" />
 </a>
