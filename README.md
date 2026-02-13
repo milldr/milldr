@@ -11,5 +11,3 @@ Outside of work, I'm always building side projects and happy to help the communi
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" style="width:auto;" />
 </picture>
-
-<img src="dist/github-metrics.svg" alt="GitHub Metrics" />
