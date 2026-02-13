@@ -12,6 +12,4 @@ Outside of work, I'm always building side projects and happy to help the communi
   <img alt="github-snake" src="github-snake.svg" style="width:auto;" />
 </picture>
 
-<a href="https://github.com/milldr">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=milldr&theme=dracula" />
-</a>
+<img src="dist/github-metrics.svg" alt="GitHub Metrics" />
